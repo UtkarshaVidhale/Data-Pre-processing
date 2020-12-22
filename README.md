@@ -1,4 +1,4 @@
-# Data-Pre-processing
+# Data Pre-processing
 Basic data pre-processing for data analysis and visualization.
 
  - Used Data_students.csv to explain basic data pre-processing steps required for data analysis. 
